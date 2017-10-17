@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">"Book Listing"</string>
+
+    <string name="no_enter"> Please Enter Something </string>
+    <string name="no_connection"> No internet connection </string>
+    <string name="wait">Please Wait...</string>
+    <string name="no_books"> No Result </string>
+
+</resources>
